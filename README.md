@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/EoyoeS-TechnicalXiaobai-important" />
   </a>
   
-  <a href="https://github.com/EoyoeS/linux_sys/blob/main/LICENSE.txt">
+  <a href="https://github.com/EoyoeS/linux_sys/blob/master/LICENSE.txt">
     <img src="https://img.shields.io/badge/LICENSE-MIT-blueviolet" />
   </a>
   
