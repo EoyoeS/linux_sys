@@ -24,4 +24,4 @@ initramfs由两部分组成
 	```bash
 	zcat initramfs.img | cpio -idmv
 	```
-后续[[制作initramfs]]
+后续[[2_制作initramfs]]
